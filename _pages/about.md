@@ -17,42 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the School of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](https://cnsba.scut.edu.cn/) with a B.S. in Industrial Engineering.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+My research focuses on patient (especially elderly) **well-being in technology-enabled healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
+I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and am also interested in incorporating lab experiments and game theory insights into my research.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 Start my journey to Hong Kong chasing my PhD degree! 
+- *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the [principal](https://www.scut.edu.cn/new/2022/0830/c82a21435/page.htm) by name at the graduation ceremony.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tsinghua Business Review</div><img src='images/Anthropomorphism.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UNCIBZVVy9JOupisQoOqAEYJMIy4BvRXJcrd231f44OR&uniplatform=NZKPT)
+- My first publication, making full use of McClelland's iceberg model to sort out the Human-Robot interaction literature related to anthropomorphism.
+- The "ice heart" can only be truly thawed by paying more attention to the "under iceberg" characteristics and motivations of robots.
 </div>
 </div>
+- Book chpters
+  - Structural Equation Model (Applied Statistic Analysis)
+- Reviewer Service
+  - ICIS2023/ECIS2023/AOM2023
+- Public research funds
+  - (2023-2024)Open Project of Shanghai Key Laboratory of Brain-Machine Synergy --- Research on Cognitive Network Model of Creativity for Human-AGI Synergy: Behavioural Metrics and Motivational Mining (Project No. 2023KFKT003), 30,000, Participation
+  - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Health and Health Care in the New Era-Digitised Elderly Service Guangzhou Model (Project no: 2023GZYB22), 50,000, Participation
+- Commercial research funds
+  - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💻 Experience
+
+- [**2022.07 - 2023.07(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm).
+  - Scientific training:
+    - Fund Application/Completion Report Writing *3
+    - Policy report writing *2
+  - Personal Research:
+    1. Literature review on human-AI co-creation
+    2. A Discrete Evolutionary Game Modeling Approach for Networks
+    3. An empirical papers on OHC (my graduation thesis)
+
+- [**2021.10 - 2023.03**], Research Assistant supervised by [Hongli Wang](https://cnsba.scut.edu.cn/2020/0311/c24834a366013/page.htm).
+  - Research Topics:
+  [1]human-AI interaction/[2]algorithm control/[3]involution
+  - Project:
+    1. [1]Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review (Second and corresponding author)
+    2. [1]Service Robot Service Failure: Literature Review and Research Prospect, submitted to CSSCI-index journal (Contributor)
+    3. [2]Freeing Gig Workers from the Tensions Created by Algorithmic Control: Who Can Help Them?, submitted to ABS3 journal (Contributor)
+    4. [3]killing the goose: Short- and long-term effects of involution on individual creativity, CSSCI-index journal 1st round revision (Main author)
+    5. [3]Exploring the concept of involutional anxiety among Chinese college students: A student transition perspective, SSCI-Q1 index journal accepted (First and corresponding author)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Undergraduate period@SCUT
+  - [**2023.06**] Excellent graduation thesis award *(**top8/378**, instructed by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm))*
+  - [**2023.04**] TOP 10 undergraduate students *(**highest** comprehensive honor for undergraduate students)*
+  - [**2022.09**] GAC Scholarship *(**1/378**, the highest scholarship for undergraduate students, 20,000 yuan)*
+  - [**2021.09**] Suzhou Yucai Scholarship *(**1/91**, only 10 undergraduates in the university won, 10,000 yuan)*
+  - [**2020.09**] China National Scholarship *(**1/91**, 8,000 yuan)*
+  - Total amount of honors and awards in various competition/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2023.09 - 2027.09(hopely)**, PhD student, Department of Information System, College of Business, City University of Hong Kong. 
+- **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Miscellaneous
+- Friends(Ordered by Alphabets)
