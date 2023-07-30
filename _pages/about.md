@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the School of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](https://cnsba.scut.edu.cn/) with a B.S. in Industrial Engineering.
+I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](https://cnsba.scut.edu.cn/) with a B.S. in Industrial Engineering.
 
 
 My research focuses on patient (especially elderly) **well-being in technology-enabled healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
-I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and am also interested in incorporating lab experiments and game theory insights into my research.
+I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioural decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Start my journey to Hong Kong chasing my PhD degree! 
-- *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the [principal](https://www.scut.edu.cn/new/2022/0830/c82a21435/page.htm) by name at the graduation ceremony.
+- *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognised by the [principal](https://www.scut.edu.cn/new/2022/0830/c82a21435/page.htm) by name at the graduation ceremony.
 
 # 📝 Publications 
 
@@ -41,7 +41,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - The "ice heart" can only be truly thawed by paying more attention to the "under iceberg" characteristics and motivations of robots.
 </div>
 </div>
-- Book chpters
+- Book chapters
   - Structural Equation Model (Applied Statistic Analysis)
 - Reviewer Service
   - ICIS2023/ECIS2023/AOM2023
@@ -49,28 +49,28 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
   - (2023-2024)Open Project of Shanghai Key Laboratory of Brain-Machine Synergy --- Research on Cognitive Network Model of Creativity for Human-AGI Synergy: Behavioural Metrics and Motivational Mining (Project No. 2023KFKT003), 30,000, Participation
   - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Health and Health Care in the New Era-Digitised Elderly Service Guangzhou Model (Project no: 2023GZYB22), 50,000, Participation
 - Commercial research funds
-  - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co.
+  - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co., Participation
 
 # 💻 Experience
 
-- [**2022.07 - 2023.07(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm).
+- [**2022.07 - 2023.07(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
   - Scientific training:
     - Fund Application/Completion Report Writing *3
     - Policy report writing *2
-  - Personal Research:
+  - Personal Project:
     1. Literature review on human-AI co-creation
     2. A Discrete Evolutionary Game Modeling Approach for Networks
-    3. An empirical papers on OHC (my graduation thesis)
+    3. An empirical paper on OHC (my graduation thesis)
 
 - [**2021.10 - 2023.03**], Research Assistant supervised by [Hongli Wang](https://cnsba.scut.edu.cn/2020/0311/c24834a366013/page.htm).
   - Research Topics:
   [1]human-AI interaction/[2]algorithm control/[3]involution
   - Project:
-    1. [1]Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review (Second and corresponding author)
-    2. [1]Service Robot Service Failure: Literature Review and Research Prospect, submitted to CSSCI-index journal (Contributor)
-    3. [2]Freeing Gig Workers from the Tensions Created by Algorithmic Control: Who Can Help Them?, submitted to ABS3 journal (Contributor)
-    4. [3]killing the goose: Short- and long-term effects of involution on individual creativity, CSSCI-index journal 1st round revision (Main author)
-    5. [3]Exploring the concept of involutional anxiety among Chinese college students: A student transition perspective, SSCI-Q1 index journal accepted (First and corresponding author)
+    1. [1] Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review (Second and corresponding author)
+    2. [1] Service Robot Service Failure: Literature Review and Research Prospect, submitted to CSSCI-index journal (Contributor)
+    3. [2] Freeing Gig Workers from the Tensions Created by Algorithmic Control: Who Can Help Them?, submitted to ABS3 journal (Contributor)
+    4. [3] Killing the Goose: Short- and long-term effects of involution on individual creativity, CSSCI-index journal 1st round revision (Main author)
+    5. [3] Exploring the concept of involutional anxiety among Chinese college students: A student transition perspective, SSCI-Q1 index journal accepted (First and corresponding author)
 
 # 🎖 Honors and Awards
 - Undergraduate period@SCUT
@@ -79,10 +79,10 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
   - [**2022.09**] GAC Scholarship *(**1/378**, the highest scholarship for undergraduate students, 20,000 yuan)*
   - [**2021.09**] Suzhou Yucai Scholarship *(**1/91**, only 10 undergraduates in the university won, 10,000 yuan)*
   - [**2020.09**] China National Scholarship *(**1/91**, 8,000 yuan)*
-  - Total amount of honors and awards in various competition/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
+  - Total amount of honors and awards in various competitions/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
 
 # 📖 Educations
-- **2023.09 - 2027.09(hopely)**, PhD student, Department of Information System, College of Business, City University of Hong Kong. 
+- **2023.09 - 2027.09(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong. 
 - **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
 
 # 💬 Miscellaneous
