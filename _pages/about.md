@@ -60,7 +60,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
 # 💼 Experiences
 
-- [**2022.07 - 2023.07(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
+- [**2022.07 - 2023.08(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
   - Scientific training:
     - Fund Application/Completion Report Writing *3
     - Policy report writing *2
