@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](https://cnsba.scut.edu.cn/) with a B.S. in Industrial Engineering.
+🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
 
 
 My research focuses on patient (especially elderly) **well-being in technology-enabled healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
 I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioural decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Start my journey to Hong Kong chasing my PhD degree! 
+- *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong chasing my PhD degree! 
 - *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognised by the [principal](https://www.scut.edu.cn/new/2022/0830/c82a21435/page.htm) by name at the graduation ceremony.
 
 # 📝 Publications 
