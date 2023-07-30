@@ -99,4 +99,4 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 # 💬 Miscellaneous
 - Friends(Ordered by Alphabets)
   - waiting for ...
-- Hobbies: 🏸Badminton;🎶Music;👟Long-distance running;🎮️MINECRAFT
+- Hobbies: 🏸Badminton; 🎶Music; 👟Long-distance running; 🎮️MINECRAFT
