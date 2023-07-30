@@ -58,7 +58,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - Commercial research funds
   - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co., Participation
 
-# 💼 Experience
+# 💼 Experiences
 
 - [**2022.07 - 2023.07(now)**], Research Assistant supervised by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm).
   - Scientific training:
@@ -89,7 +89,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
   - Total amount of honors and awards in various competitions/selections: <br>7+ at the national level, 12+ at the provincial level, and 36+ at the university level.
 
 # 🏫 Educations
-- **2023.09 - 2027.09(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong. 
+- **2023.09 - 2027.06(hopefully)**, PhD student, Department of Information Systems, College of Business, City University of Hong Kong. 
 - **2019.09 - 2023.06**        , B.S. in Industrial Engineering, School of Business Administration, South China University of Technology. (GPA: 90+/100, 3.85/4.0)
 
 # 🌄 Mottos
