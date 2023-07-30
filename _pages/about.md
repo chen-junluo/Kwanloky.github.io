@@ -54,7 +54,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
   - Co-founder of Cyber-FAFA institution(233
 - Public research funds
   - (2023-2024)Open Project of Shanghai Key Laboratory of Brain-Machine Synergy --- Research on Cognitive Network Model of Creativity for Human-AGI Synergy: Behavioural Metrics and Motivational Mining (Project No. 2023KFKT003), 30,000, Participation
-  - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Healthcare in the New Era - Digitised Elderly Service Guangzhou Model (Project no: 2023GZYB22), 50,000, Participation
+  - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Healthcare in the New Era - Digitised Elderly Service Guangzhou Model (Project No: 2023GZYB22), 50,000, Participation
 - Commercial research funds
   - (2023-2023)SANY Operation Research Optimisation Algorithm System School-Enterprise Cooperation Construction Project, Sany Heavy Machinery Co., Participation
 
