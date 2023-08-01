@@ -20,7 +20,7 @@ redirect_from:
 🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
 
 
-My research focuses on patient (especially elderly) **well-being** in technology-enpowered **healthcare** with **Chinese characteristics**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
+My research focuses on chinese patient (especially elderly) **well-being** in technology-enpowered **healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
 I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioural decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
 
 # 🔥 News
