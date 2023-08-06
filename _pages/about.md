@@ -19,6 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
 
 
