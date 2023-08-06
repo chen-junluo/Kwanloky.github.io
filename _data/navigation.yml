@@ -1,24 +1,15 @@
 # main links links
 main:
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Research Notes"
+    url: /res/
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Tech Plogs"
+    url: /tech/
 
-  - title: "Experiences"
-    url: "/#-experience"
+  - title: "Experiment Platform"
+    url: /expt/
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Mottos"
-    url: "/#-mottos"
-
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  - title: "GPT Assistance"
+    url: /GPT/
 

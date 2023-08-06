@@ -3,6 +3,8 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
+breadcrumbs: true
+toc: true
 redirect_from: 
   - /about/
   - /about.html

@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junluo Chen（陈钧洛）"
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   bio              : "@CityU"
   location         : "Hong Kong, China"
   employer         :
@@ -99,6 +99,16 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+# Collections
+collections:
+  posts-res:
+    output: true
+    permalink: /:collection/:path/
+  posts-tech:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -127,7 +137,20 @@ defaults:
     values:
       layout: default
       author_profile: true
-
+      show_date: true
+      date_format: "%B %-d, %Y"
+  # _res-posts
+  - scope:
+      path: ""
+      type: posts-res
+    values:
+      show_date: true
+  # _tech-posts
+  - scope:
+      path: ""
+      type: posts-tech
+    values:
+      show_date: true
 
 # Sass/SCSS
 sass:
