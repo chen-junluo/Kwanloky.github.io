@@ -14,7 +14,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="main" role="main" style="display: flex;">
+    <!-- <div id="main" role="main" style="display: flex;">
 
       <aside class="sidebar__left sticky" style="flex: 1; margin-right: 20px;">
         <nav class="toc">
@@ -41,7 +41,37 @@ layout: compress
         </div>
 
       </article>
+    </div> -->
+    <div id="main" role="main">
+      
+      <aside class="sidebar__left sticky">
+        <nav class="toc">
+          <header>
+            <h4 class="nav__title">
+            <i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> 
+            {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}
+            </h4>
+          </header>
+          {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+        </nav>
+      </aside>
+
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        
+        <div class="page__inner-wrap">
+            {% unless page.header.overlay_color or page.header.overlay_image %}
+            <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+            {% endunless %}
+            <section class="page__inner-wrap.page__content" itemprop="text">
+              {{ content }}
+            </section>
+        </div>
+
+      </article>
     </div>
+
+
 
     {% include scripts.html %}
 
