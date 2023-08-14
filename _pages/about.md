@@ -27,7 +27,7 @@ My research focuses on Chinese patient (especially elderly) **well-being** in te
 I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
 
 <div class='paper-box-image'>
-<img src='images/research interest.jpg' alt="sym" width="100%">
+<img src='images/research roadmap.jpg' alt="sym" width="100%">
 </div>
 
 
@@ -52,7 +52,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
 [**Paper**](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UNCIBZVVy9JOupisQoOqAEYJMIy4BvRXJcrd231f44OR&uniplatform=NZKPT)
 - My first publication, making full use of McClelland's iceberg model to sort out the Human-Robot interaction literature related to anthropomorphism.
-- The "ice heart" can only be truly thawed by paying more attention to the "under iceberg" characteristics and motivations of robots.
+- The "ice heart" can only be thawed by paying more attention to the "under iceberg" characteristics and motivations of robots.
 </div>
 </div>
 
