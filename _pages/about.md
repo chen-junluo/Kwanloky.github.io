@@ -91,7 +91,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 # 🏅 Honors and Awards
 - Undergraduate period@SCUT
   - [**2023.06**] Excellent graduation thesis award *(**top8/378**, instructed by [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm))*
-  - [**2023.04**] TOP 10 undergraduate students *(**highest** comprehensive honor for undergraduate students)*
+  - [**2023.04**] [TOP 10 undergraduate students](https://www2.scut.edu.cn/student/2023/0322/c8965a494881/page.htm) *(**highest** comprehensive honor for undergraduate students)*
   - [**2022.09**] GAC Scholarship *(**1/378**, the highest scholarship for undergraduate students, 20,000 yuan)*
   - [**2021.09**] Suzhou Yucai Scholarship *(**1/91**, only 10 undergraduates in the university won, 10,000 yuan)*
   - [**2020.09**] China National Scholarship *(**1/91**, 8,000 yuan)*
