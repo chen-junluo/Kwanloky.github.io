@@ -20,10 +20,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben Liu](https://www.cb.cityu.edu.hk/staff/qianqliu/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
+🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. LIU Ben](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. LI Xin](https://www.cb.cityu.edu.hk/staff/xinli24/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
 
-
-My research focuses on Chinese patient (especially elderly) **well-being** in technology-powered **healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. 
+My research focuses on Chinese patient (especially elderly) **well-being** in technology-powered **healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. I am also interested in AI regulation in organization.
 I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
 
 <div class='paper-box-image'>
@@ -32,7 +31,7 @@ I am passionate about empirical research (both survey and secondary data) with a
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong pursuing my PhD degree! 
+- *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong pursuing my PhD degree! Impressive first month! Feel extremely lucky and satisfied! 
 - *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the principal by name at the [graduation ceremony](images/graduation ceremony.jpg).
 
 # 📝 Publications 
@@ -46,7 +45,7 @@ I am passionate about empirical research (both survey and secondary data) with a
 </div>
 <div class='paper-box-text' markdown="1">
 
-**Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review**
+**Design management for robot anthropomorphism: reality and future, Tsinghua Business Review**
 
 Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 
@@ -82,7 +81,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - Research Topics:
 [1]human-AI interaction/[2]algorithm control/[3]involution
 - Project:
-  1. [1] Design management for robot anthropomorphisation: reality and future, Tsinghua Business Review (Second and corresponding author)
+  1. [1] Design management for robot anthropomorphism: reality and future, Tsinghua Business Review (Second and corresponding author)
   2. [1] Service Robot Service Failure: Literature Review and Research Prospect, submitted to CSSCI-index journal (Contributor)
   3. [2] Freeing Gig Workers from the Tensions Created by Algorithmic Control: Who Can Help Them?, submitted to ABS3 journal (Contributor)
   4. [3] Killing the Goose: Short- and long-term effects of involution on individual creativity, CSSCI-index journal 1st round revision (Main author)
