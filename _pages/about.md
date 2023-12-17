@@ -31,6 +31,7 @@ I am passionate about empirical research (both survey and secondary data) with a
 
 
 # 🔥 News
+- *Flags list*: &nbsp; IS PhD Stimulator; cultivating my github accout; econometrics note; ...  
 - *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong pursuing my PhD degree! Impressive first month! Feel extremely lucky and satisfied! 
 - *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the principal by name at the [graduation ceremony](images/graduation ceremony.jpg).
 
