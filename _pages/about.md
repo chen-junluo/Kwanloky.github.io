@@ -20,7 +20,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/). I just graduated from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) with a B.S. in Industrial Engineering.
+🦸‍♂️I am a 23-Fall PhD student in the [Department of Information Systems](https://www.cb.cityu.edu.hk/is/research/introduction.html) in the College of Business at City University of Hong Kong, supervised by [Prof. Ben LIU](https://www.cb.cityu.edu.hk/staff/qianqliu/) and [Prof. Xin LI](https://www.cb.cityu.edu.hk/staff/xinli24/). I received my Bachelor's degree in Industrial Engineering from [South China University of Technology](http://cnsba.scut.edu.cn/xyjj/list.htm) as one of the TOP 10 outstanding undergraduate students in June 2023.
 
 My research focuses on Chinese patient (especially elderly) **well-being** in technology-powered **healthcare**, two specific areas of which may be **online healthcare communities** and **human-AI interaction**. I am also interested in AI regulation in organization.
 I am passionate about empirical research (both survey and secondary data) with an emphasis on **credible causal inference** and **behavioral decision theory**, and I am also interested in incorporating lab experiments and game theory insights into my research.
