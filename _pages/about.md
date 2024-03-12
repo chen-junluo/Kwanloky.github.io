@@ -31,7 +31,8 @@ I am passionate about empirical research (both survey and secondary data) with a
 
 
 # 🔥 News
-- *Flags list*: &nbsp; IS PhD Stimulator; cultivating my github accout; econometrics note; ...  
+- *2024.03*: &nbsp; One paper submitted to PACIS 2024. I've been cultivating my Github account since 2024!
+- *2024.02*: &nbsp; One paper submitted to AOM 2024.
 - *2023.09*: &nbsp;🎉🎉 Start my journey in Hong Kong pursuing my PhD degree! Impressive first month! Feel extremely lucky and satisfied! 
 - *2023.06*: &nbsp;🎉🎉 Completed my undergraduate thesis focusing on online healthcare communities under the supervision of [Wenhui Zhou](https://cnsba.scut.edu.cn/2020/0312/c24832a366115/page.htm) and [Yuanyuan Dang](https://cnsba.scut.edu.cn/2021/0302/c24832a420321/page.htm), won the Outstanding Thesis Award and was recognized by the principal by name at the [graduation ceremony](images/graduation ceremony.jpg).
 
@@ -59,7 +60,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - Book chapters
   - Structural Equation Model (Applied Statistic Analysis)
 - Service
-  - Reviewer for ICIS2023/ECIS2023/AOM2023
+  - Reviewer for Information Technology & People; ICIS2023; ECIS2023/2024; AOM2023/2024
   - Co-founder of Cyber-FAFA institution(233
 - Public research funds
   - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Healthcare in the New Era - Digitised Elderly Service Guangzhou Model (Project No: 2023GZYB22), 50,000, Participation
