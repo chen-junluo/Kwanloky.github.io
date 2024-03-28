@@ -60,7 +60,7 @@ Hongli Wang, **Junluo Chen\***, Zhen Li, Guangyi Xu
 - Book chapters
   - Structural Equation Model (Applied Statistic Analysis)
 - Service
-  - Reviewer for Information Technology & People; ICIS2023; ECIS2023/2024; AOM2023/2024
+  - Reviewer for Information Technology & People; ICIS2023; PACIS2024; ECIS2023/2024; AOM2023/2024
   - Co-founder of Cyber-FAFA institution(233
 - Public research funds
   - (2023-2025)Guangzhou Municipal Philosophy and Social Science Planning Project General Project --- Research on Guangzhou Practice of Major Changes in Healthcare in the New Era - Digitised Elderly Service Guangzhou Model (Project No: 2023GZYB22), 50,000, Participation
