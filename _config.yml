@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Dylan's Homepage"
 description              : "Information Systems Research Sharing Space"
-url                      : https://Kwanloky.github.io
-repository               : "Kwanloky/Kwanloky.github.io"
+url                      : https://chen-junluo.github.io
+repository               : "chen-junluo/chen-junluo.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Kwanloky"
+  github           : "chen-junluo"
   google_plus      :
   keybase          :
   instagram        :
