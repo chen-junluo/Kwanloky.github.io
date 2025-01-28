@@ -31,6 +31,7 @@ I am passionate about empirical research (both survey and secondary data) with a
 
 
 # 🔥 News
+- *Flag*: &nbsp; Finish my thesis analysis of 3 studies in Year 2.
 - *2024.09*: &nbsp;One ICIS 2024 Paper accepted. One HICSS 2024 Paper accepted.
 - *2024.03*: &nbsp;One paper submitted to PACIS 2024. I've been cultivating my Github account since 2024!
 - *2024.02*: &nbsp;One paper submitted to AOM 2024.
